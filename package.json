@@ -1,5 +1,5 @@
 {
-  "name": "ng-annotate-patched",
+  "name": "ng-annotate",
   "version": "1.7.0",
   "description": "add, remove and rebuild angularjs dependency injection annotations",
   "main": "src/ng-annotate-main.js",
